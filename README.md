@@ -20,8 +20,8 @@ This repository contains scripts to run Alibaba Cloud's WAN 2.1 video generation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/wan-t4.git
-cd wan-t4
+git clone https://github.com/EchoAI-blink/Wan2.1-colab.git
+cd Wan2.1-colab
 ```
 
 2. Install the required dependencies:
